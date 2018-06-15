@@ -1,1 +1,1 @@
-Learn python fast from https://pythonbasics.org/
+Tutorial code. Learn python fast from https://pythonbasics.org/
